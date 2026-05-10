@@ -16,8 +16,11 @@
 <br/>
 
 ![](https://img.shields.io/badge/INFJ-The%20Architect%20of%20Shadows-2d1b69?style=flat-square&labelColor=0d0d0d)
+
 ![](https://img.shields.io/badge/Nyctophile-Thrives%20after%20midnight-1a1a2e?style=flat-square&labelColor=0d0d0d)
+
 ![](https://img.shields.io/badge/Anime%20Addict-Stage%20∞-c9a96e?style=flat-square&labelColor=0d0d0d)
+
 ![](https://img.shields.io/badge/Status-Quietly%20dangerous-6d28d9?style=flat-square&labelColor=0d0d0d)
 
 </div>
