@@ -106,10 +106,6 @@ const ricky = {
 
 <br/>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=6d28d9&label=souls+who+passed+through)
-
-<br/>
-
 ```
       ／￣￣＼
     ／  ●　●  ＼       Ricky D.
